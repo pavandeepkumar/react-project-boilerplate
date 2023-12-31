@@ -1,0 +1,28 @@
+{
+  "name": "react-project-boilerplate",
+  "version": "1.0.0",
+  "description": "A complete React Boiler plate for react project",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavandeepkumar/react-project-boilerplate.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Pavandeep <pavandeepkumarmlk@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pavandeepkumar/react-project-boilerplate/issues"
+  },
+  "homepage": "https://github.com/pavandeepkumar/react-project-boilerplate#readme",
+  "devDependencies": {
+    "tsup": "^8.0.1",
+    "typescript": "^5.3.3"
+  }
+}
